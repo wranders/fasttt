@@ -1,0 +1,11 @@
+{
+	"title"		:	"Firearms:Source 2.0 Weapons for TTT",
+	"type"		:	"weapon",
+	"tags"		:	[ "realism" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}

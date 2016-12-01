@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/ttt_fas2_icons/ammocrate"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}
